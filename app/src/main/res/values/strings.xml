@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyQuizApp</string>
+    <string name="quiz_app">Quiz App!</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_enter_your_name">Please enter your name.</string>
+    <string name="name">e.g. John</string>
+    <string name="start">START</string>
+    <string name="title_activity_quiz_questions">QuizQuestionsActivity</string>
+    <string name="quiz_image">Quiz Image</string>
+    <string name="submit">SUBMIT</string>
+    <string name="finish">FINISH</string>
+    <string name="go_to_next_question">GO TO NEXT QUESTION</string>
+    <string name="result">Result</string>
+    <string name="hey_congratulations">Hey, Congratulations!</string>
+    <string name="what_country_does_this_flag_belong_to">What country does this flag belong to?</string>
+    <string name="_1_10">1/10</string>
+    <string name="argentina">Argentina</string>
+    <string name="armenia">Armenia</string>
+    <string name="austria">Austria</string>
+    <string name="australia">Australia</string>
+</resources>
